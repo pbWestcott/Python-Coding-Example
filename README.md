@@ -1,5 +1,5 @@
 A project for Dr. Sarah Westcott at UCSF. This is an initial discussion to see if Race has an effect on a range different medical outcomes. 
-The scope of this data and the lack of power in the study leads to a significant risk of overfitting, and discovering a significant result to to the number of statistical tests performed. For the categorical variables a chi squared test was used. For the numberic variables a t test was used.
+The scope of this data and the lack of power in the study leads to a significant risk of overfitting, and would need to control for the family wise error to discover a significant result with the number of statistical tests performed. However fir this projects these tests were performed to direct future testing. For the categorical variables a chi squared test was used. For the numberic variables a t test was used.
 
 Both of the test's are 2 sided to determine if there is any expected difference in the outcome.
 
